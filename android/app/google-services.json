@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079418892556",
+    "project_id": "classy-closet",
+    "storage_bucket": "classy-closet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079418892556:android:ba7b3b3514ff3c2c325929",
+        "android_client_info": {
+          "package_name": "com.classy_closet.final_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079418892556-crgsjafh4vtv2qhk0pav8clo9292iece.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnT6iX2-pG9eQB5AhGwd-XVwfLDzcsW9Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079418892556-crgsjafh4vtv2qhk0pav8clo9292iece.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

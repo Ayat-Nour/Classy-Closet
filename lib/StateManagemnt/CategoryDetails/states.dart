@@ -1,0 +1,6 @@
+abstract class CategoryDetailsStates{}
+
+class CategoryDetailsInitState extends CategoryDetailsStates{}
+class CategoryDetailsSuccessState extends CategoryDetailsStates{}
+class CategoryDetailsErrorState extends CategoryDetailsStates{}
+class CategoryDetailsLoadingState extends CategoryDetailsStates{}
